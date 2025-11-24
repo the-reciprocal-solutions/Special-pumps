@@ -91,7 +91,7 @@ export default function OurService() {
 								<div className="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration={800}>
 									<div className="project-featured-box">
 										<div className="img1">
-											<img src="/assets/img/Installation & Commissioning.png" alt="Special Pumps" />
+											<img src="/assets/img/selecting.png" alt="Special Pumps" />
 										</div>
 										<div className="space40" />
 										<Link href="/products/chemical-process" className="head">Pump Selection & Sizing</Link>
@@ -110,7 +110,7 @@ export default function OurService() {
 								<div className="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration={1000}>
 									<div className="project-featured-box">
 										<div className="img1">
-											<img src="/assets/img/Installation & Commissioning.png" alt="Special Pumps" />
+											<img src="/assets/img/installataion.png" alt="Special Pumps" />
 										</div>
 										<div className="space40" />
 										<Link href="/products/chemical-process" className="head">Installation & Commissioning</Link>
@@ -129,7 +129,7 @@ export default function OurService() {
 								<div className="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration={1200}>
 									<div className="project-featured-box">
 										<div className="img1">
-											<img src="/assets/img/Maintenance & Spares.png" alt="Special Pumps" />
+											<img src="assets/img/main.png" alt="Special Pumps" />
 										</div>
 										<div className="space40" />
 										<Link href="/products/chemical-process" className="head">Maintenance & Spares
