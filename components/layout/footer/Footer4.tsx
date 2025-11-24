@@ -170,7 +170,19 @@ export default function Footer4() {
 					<div className="row">
 						<div className="col-lg-12">
 							<div className="copyright text-center">
-								<p>©Copyright {new Date().getFullYear()} - Special Pumps. All Right Reserved <br /> <br /> Developed by <Link href="/https://thereciprocalsolutions.com/" target="_blank" rel="noopener noreferrer" >The Reciprocal Solutions</Link></p>
+							<p>
+  © Copyright {new Date().getFullYear()} - Special Pumps. All Rights Reserved
+  <br /> <br />
+  Developed by{" "}
+  <a
+    href="https://thereciprocalsolutions.com/"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    The Reciprocal Solutions
+  </a>
+</p>
+
 							</div>
 						</div>
 					</div>
