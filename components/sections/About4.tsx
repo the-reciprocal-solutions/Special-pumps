@@ -77,13 +77,13 @@ export default function About4() {
 								<div className="space32" />
 								<div className="counter-boxes" data-aos="fade-left" data-aos-duration={1000}>
 									<div className="row">
-										<div className="col-lg-4 col-md-4 col-6">
+										{/* <div className="col-lg-4 col-md-4 col-6">
 											<div className="counter-boxarea text-center">
 												<h2><CounterUp end={150} suffix="+" /></h2>
 												<div className="space12" />
 												<p>Pumps Sold</p>
 											</div>
-										</div>
+										</div> */}
 										<div className="col-lg-4 col-md-4 col-6">
 											<div className="counter-boxarea text-center">
 												<h2><CounterUp end={100} suffix="+" /></h2>
