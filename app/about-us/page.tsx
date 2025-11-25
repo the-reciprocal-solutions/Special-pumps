@@ -106,14 +106,14 @@ export default function AboutUs() {
 										<div className="space18" />
 										<p data-aos="fade-left" data-aos-duration={900}>At Special Pumps, clear communication drives reliable performance. Whether you need help selecting a non‑clog sewage pump, sizing a thermic fluid unit for high‑temperature service, specifying corrosion‑resistant polypropylene or stainless‑steel construction, or optimizing an existing process line, the engineering team is ready to assist end‑to‑end.</p>
 										<div className="space32" />
-										<div className="counter-boxes" data-aos="fade-left" data-aos-duration={1000}>
+										{/* <div className="counter-boxes" data-aos="fade-left" data-aos-duration={1000}>
 											<div className="row">
 											<div className="col-lg-4 col-md-4 col-6">
   {/* <div className="counter-boxarea text-center">
     <h2><CounterUp end={150} />+</h2>
     <div className="space12" />
     <p>Pumps Sold</p>
-  </div> */}
+  </div> 
 </div>
 
 <div className="col-lg-4 col-md-4 col-6">
@@ -132,7 +132,7 @@ export default function AboutUs() {
     <p>Satisfaction Rate</p>
   </div>
 </div>				</div>
-										</div>
+										</div> */}
 										<div className="space32" />
 										<div className="btn-area1" data-aos="fade-left" data-aos-duration={1100}>
 											<Link href="/product-gallery" className="theme-btn5">See All Products <span className="arrow1"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width={24} height={24} fill="currentColor">

@@ -51,7 +51,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${inter.variable} ${dmSans.variable} ${inter.className} homepage4-body`}>
+      <body className={`${inter.variable} ${dmSans.variable} ${inter.className} homepage4-body`} suppressHydrationWarning>
         <StoreProvider>
           <Suspense fallback={<PageLoader autoDismissMs={null} />}>
             <GlobalLoader />

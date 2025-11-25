@@ -223,7 +223,7 @@ export default function ComponentDetails({ component, onClose }: ComponentDetail
     Key Features
   </h4>
   <div className="features-grid">
-    {data.mainContent.keyFeatures.map((feature: any, index: number) => (
+    {data.features && data.features.map((feature: string, index: number) => (
       <motion.div 
         key={index} 
         className="feature-item"
@@ -233,8 +233,7 @@ export default function ComponentDetails({ component, onClose }: ComponentDetail
         whileHover={{ scale: 1.05 }}
       >
         <div className="feature-content">
-          <h5 className="feature-heading">{feature.title}</h5>
-          <p className="feature-description">{feature.description}</p>
+          <p className="feature-description">{feature}</p>
         </div>
       </motion.div>
     ))}

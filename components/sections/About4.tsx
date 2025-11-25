@@ -75,7 +75,7 @@ export default function About4() {
 								<div className="space18" />
 								<p data-aos="fade-left" data-aos-duration={900}>Manufacturer from Coimbatore delivering industrial pumps for process, chemical, hot oil, slurry, filtration, and dewatering applications. One range—many solutions.</p>
 								<div className="space32" />
-								<div className="counter-boxes" data-aos="fade-left" data-aos-duration={1000}>
+								{/* <div className="counter-boxes" data-aos="fade-left" data-aos-duration={1000}>
 									<div className="row">
 										{/* <div className="col-lg-4 col-md-4 col-6">
 											<div className="counter-boxarea text-center">
@@ -83,7 +83,7 @@ export default function About4() {
 												<div className="space12" />
 												<p>Pumps Sold</p>
 											</div>
-										</div> */}
+										</div> 
 										<div className="col-lg-4 col-md-4 col-6">
 											<div className="counter-boxarea text-center">
 												<h2><CounterUp end={100} suffix="+" /></h2>
@@ -100,7 +100,7 @@ export default function About4() {
 											</div>
 										</div>
 									</div>
-								</div>
+								</div> */}
 								<br />
 								<div className="btn-area1" data-aos="fade-left" data-aos-duration={1100}>
 											<Link href="/about-us" className="theme-btn5">Know more <span className="arrow1"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width={24} height={24} fill="currentColor">
