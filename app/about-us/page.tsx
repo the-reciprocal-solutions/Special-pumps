@@ -541,7 +541,7 @@ export default function AboutUs() {
 					</div> */}
 					{/*===== TEAM AREA ENDS =======*/}
 					{/*===== TESTIMONIAL AREA STARTS =======*/}
-					<div className="testimonial1-section-area sp1" style={{ backgroundImage: 'url(assets/img/all-images/bg/bg1.png)', backgroundPosition: 'center', backgroundRepeat: 'no-repeat', backgroundSize: 'cover' }}>
+					{/* <div className="testimonial1-section-area sp1" style={{ backgroundImage: 'url(assets/img/all-images/bg/bg1.png)', backgroundPosition: 'center', backgroundRepeat: 'no-repeat', backgroundSize: 'cover' }}>
 						<div className="container">
 							<div className="row">
 								<div className="col-lg-6">
@@ -661,7 +661,7 @@ export default function AboutUs() {
 								</div>
 							</div>
 						</div>
-					</div>
+					</div> */}
 					{/*===== TESTIMONIAL AREA ENDS =======*/}
 					<div className="space100 d-lg-block d-none" />
 					{/* <div className="space50 d-lg-none d-block" /> */}

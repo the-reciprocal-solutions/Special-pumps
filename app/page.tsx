@@ -8,7 +8,7 @@ import Hero4 from "@/components/sections/Hero4"
 import Project2 from "@/components/sections/Project2"
 import Properties from "@/components/sections/Properties4"
 // import Team3 from "@/components/sections/Team3"
-import Testimonial4 from "@/components/sections/Testimonial4"
+// import Testimonial4 from "@/components/sections/Testimonial4"
 
 export default function Home() {
 
@@ -25,7 +25,7 @@ export default function Home() {
 				{/* <Team3 /> */}
 				<Faq />
 				<Cta2 />
-				<Testimonial4 />
+				{/* <Testimonial4 /> */}
 					 </Layout>
 		</>
 	)

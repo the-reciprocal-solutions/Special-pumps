@@ -253,7 +253,7 @@ export default function OurService() {
           </div>
           {/*===== PROJECT AREA ENDS =======*/}
           {/*===== TESTIMONIAL AREA STARTS =======*/}
-          <div
+          {/* <div
             className="testimonial1-section-area sp1"
             style={{
               backgroundImage: "url(assets/img/all-images/bg/bg1.png)",
@@ -461,7 +461,7 @@ export default function OurService() {
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
           {/*===== TESTIMONIAL AREA ENDS =======*/}
           {/*===== WORKS AREA STARTS =======*/}
           <div className="faq-section-area sp1">
